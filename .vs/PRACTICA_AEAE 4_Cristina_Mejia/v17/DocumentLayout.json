@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C600046-09AB-48B5-B88C-7F7371E21F35}|PRACTICA_AEAE 4_Cristina_Mejia\\PRACTICA_AEAE 4_Cristina_Mejia.csproj|c:\\users\\cristina mejia\\documents\\semestre 4\\herramientas de programaci\u00F3n lll\\practica_aeae 4_cristina_mejia\\practica_aeae 4_cristina_mejia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C600046-09AB-48B5-B88C-7F7371E21F35}|PRACTICA_AEAE 4_Cristina_Mejia\\PRACTICA_AEAE 4_Cristina_Mejia.csproj|solutionrelative:practica_aeae 4_cristina_mejia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\PRACTICA_AEAE 4_Cristina_Mejia\\Form1.cs",
+              "RelativeDocumentMoniker": "PRACTICA_AEAE 4_Cristina_Mejia\\Form1.cs",
+              "ToolTip": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\PRACTICA_AEAE 4_Cristina_Mejia\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PRACTICA_AEAE 4_Cristina_Mejia\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T02:54:30.957Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

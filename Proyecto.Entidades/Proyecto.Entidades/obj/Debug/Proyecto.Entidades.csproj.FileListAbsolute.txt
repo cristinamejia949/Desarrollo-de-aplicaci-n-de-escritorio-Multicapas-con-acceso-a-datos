@@ -1,0 +1,6 @@
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Entidades\bin\Debug\Proyecto.Entidades.dll
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Entidades\bin\Debug\Proyecto.Entidades.pdb
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.csproj.AssemblyReference.cache
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.dll
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Entidades\obj\Debug\Proyecto.Entidades.pdb

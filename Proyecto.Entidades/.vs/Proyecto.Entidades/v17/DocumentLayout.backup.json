@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|c:\\users\\cristina mejia\\documents\\semestre 4\\herramientas de programaci\u00F3n lll\\practica_aeae 4_cristina_mejia\\proyecto.entidades\\proyecto.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1ADF92-0B0F-4CBB-9590-2E1C3C96EA1D}|Proyecto.Negocio\\Proyecto.Negocio.csproj|c:\\users\\cristina mejia\\documents\\semestre 4\\herramientas de programaci\u00F3n lll\\practica_aeae 4_cristina_mejia\\proyecto.entidades\\proyecto.negocio\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1ADF92-0B0F-4CBB-9590-2E1C3C96EA1D}|Proyecto.Negocio\\Proyecto.Negocio.csproj|solutionrelative:proyecto.negocio\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|c:\\users\\cristina mejia\\documents\\semestre 4\\herramientas de programaci\u00F3n lll\\practica_aeae 4_cristina_mejia\\proyecto.entidades\\proyecto.presentacion\\frmseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\frmseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|c:\\users\\cristina mejia\\documents\\semestre 4\\herramientas de programaci\u00F3n lll\\practica_aeae 4_cristina_mejia\\proyecto.entidades\\proyecto.presentacion\\frmseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\frmseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|c:\\users\\cristina mejia\\documents\\semestre 4\\herramientas de programaci\u00F3n lll\\practica_aeae 4_cristina_mejia\\proyecto.entidades\\proyecto.presentacion\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|c:\\users\\cristina mejia\\documents\\semestre 4\\herramientas de programaci\u00F3n lll\\practica_aeae 4_cristina_mejia\\proyecto.entidades\\proyecto.presentacion\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|c:\\users\\cristina mejia\\documents\\semestre 4\\herramientas de programaci\u00F3n lll\\practica_aeae 4_cristina_mejia\\proyecto.entidades\\proyecto.presentacion\\frmlistaempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\frmlistaempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|c:\\users\\cristina mejia\\documents\\semestre 4\\herramientas de programaci\u00F3n lll\\practica_aeae 4_cristina_mejia\\proyecto.entidades\\proyecto.presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34FABD9-B147-418C-9086-6972E33B0822}|Proyecto.Datos\\Proyecto.Datos.csproj|c:\\users\\cristina mejia\\documents\\semestre 4\\herramientas de programaci\u00F3n lll\\practica_aeae 4_cristina_mejia\\proyecto.entidades\\proyecto.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34FABD9-B147-418C-9086-6972E33B0822}|Proyecto.Datos\\Proyecto.Datos.csproj|solutionrelative:proyecto.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|c:\\users\\cristina mejia\\documents\\semestre 4\\herramientas de programaci\u00F3n lll\\practica_aeae 4_cristina_mejia\\proyecto.entidades\\proyecto.presentacion\\frmlistaempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\frmlistaempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|c:\\users\\cristina mejia\\documents\\semestre 4\\herramientas de programaci\u00F3n lll\\practica_aeae 4_cristina_mejia\\proyecto.entidades\\proyecto.presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1671D79-DBA2-4855-9530-586C1EE32F28}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1ADF92-0B0F-4CBB-9590-2E1C3C96EA1D}|Proyecto.Negocio\\Proyecto.Negocio.csproj|c:\\users\\cristina mejia\\documents\\semestre 4\\herramientas de programaci\u00F3n lll\\practica_aeae 4_cristina_mejia\\proyecto.entidades\\proyecto.negocio\\empleadonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1ADF92-0B0F-4CBB-9590-2E1C3C96EA1D}|Proyecto.Negocio\\Proyecto.Negocio.csproj|solutionrelative:proyecto.negocio\\empleadonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3360C008-415C-483E-AEE1-27FB098A6798}|Proyecto.Entidades\\Proyecto.Entidades.csproj|c:\\users\\cristina mejia\\documents\\semestre 4\\herramientas de programaci\u00F3n lll\\practica_aeae 4_cristina_mejia\\proyecto.entidades\\proyecto.entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3360C008-415C-483E-AEE1-27FB098A6798}|Proyecto.Entidades\\Proyecto.Entidades.csproj|solutionrelative:proyecto.entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3360C008-415C-483E-AEE1-27FB098A6798}|Proyecto.Entidades\\Proyecto.Entidades.csproj|c:\\users\\cristina mejia\\documents\\semestre 4\\herramientas de programaci\u00F3n lll\\practica_aeae 4_cristina_mejia\\proyecto.entidades\\proyecto.entidades\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3360C008-415C-483E-AEE1-27FB098A6798}|Proyecto.Entidades\\Proyecto.Entidades.csproj|solutionrelative:proyecto.entidades\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\Program.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:07:32.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmSeguridad.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmSeguridad.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\FrmSeguridad.cs",
+              "ToolTip": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmSeguridad.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\FrmSeguridad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:06:51.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSeguridad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmSeguridad.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\FrmSeguridad.cs",
+              "ToolTip": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmSeguridad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto.Presentacion\\FrmSeguridad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:06:31.152Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmEmpleados.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\FrmEmpleados.cs",
+              "ToolTip": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmEmpleados.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\FrmEmpleados.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:05:45.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmEmpleados.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\FrmEmpleados.cs",
+              "ToolTip": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto.Presentacion\\FrmEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:05:25.566Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Negocio\\UsuarioNegocio.cs",
+              "RelativeDocumentMoniker": "Proyecto.Negocio\\UsuarioNegocio.cs",
+              "ToolTip": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Negocio\\UsuarioNegocio.cs",
+              "RelativeToolTip": "Proyecto.Negocio\\UsuarioNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:37:29.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmListaEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmListaEmpleados.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\FrmListaEmpleados.cs",
+              "ToolTip": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmListaEmpleados.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\FrmListaEmpleados.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:01:19.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmListaEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmListaEmpleados.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\FrmListaEmpleados.cs",
+              "ToolTip": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmListaEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto.Presentacion\\FrmListaEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T04:00:04.911Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmLogin.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\FrmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:55:12.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Presentacion\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto.Presentacion\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:49:20.509Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Proyecto.Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Datos\\Conexion.cs",
+              "RelativeToolTip": "Proyecto.Datos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:31:35.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmpleadoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Negocio\\EmpleadoNegocio.cs",
+              "RelativeDocumentMoniker": "Proyecto.Negocio\\EmpleadoNegocio.cs",
+              "ToolTip": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Negocio\\EmpleadoNegocio.cs",
+              "RelativeToolTip": "Proyecto.Negocio\\EmpleadoNegocio.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:40:27.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Entidades\\Empleados.cs",
+              "RelativeDocumentMoniker": "Proyecto.Entidades\\Empleados.cs",
+              "ToolTip": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Entidades\\Empleados.cs",
+              "RelativeToolTip": "Proyecto.Entidades\\Empleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:25:06.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Proyecto.Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\CRISTINA MEJIA\\Documents\\Semestre 4\\Herramientas de Programaci\u00F3n lll\\PRACTICA_AEAE 4_Cristina_Mejia\\Proyecto.Entidades\\Proyecto.Entidades\\Usuario.cs",
+              "RelativeToolTip": "Proyecto.Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T03:15:43.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
