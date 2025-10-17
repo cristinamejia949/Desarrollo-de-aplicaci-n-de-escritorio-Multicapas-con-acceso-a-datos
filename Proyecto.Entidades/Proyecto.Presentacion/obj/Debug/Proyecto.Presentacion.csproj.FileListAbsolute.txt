@@ -1,0 +1,6 @@
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Presentacion\obj\Debug\Proyecto.Presentacion.csproj.AssemblyReference.cache
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Presentacion\obj\Debug\Proyecto.Presentacion.FrmListaEmpleados.resources
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Presentacion\obj\Debug\Proyecto.Presentacion.FrmLogin.resources
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Presentacion\obj\Debug\Proyecto.Presentacion.Properties.Resources.resources
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Presentacion\obj\Debug\Proyecto.Presentacion.csproj.GenerateResource.cache
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Presentacion\obj\Debug\Proyecto.Presentacion.csproj.CoreCompileInputs.cache

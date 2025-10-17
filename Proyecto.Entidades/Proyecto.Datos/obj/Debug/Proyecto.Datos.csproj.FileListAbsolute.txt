@@ -1,0 +1,9 @@
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Datos\bin\Debug\Proyecto.Datos.dll
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Datos\bin\Debug\Proyecto.Datos.pdb
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Datos\bin\Debug\Proyecto.Entidades.dll
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Datos\bin\Debug\Proyecto.Entidades.pdb
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.AssemblyReference.cache
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Datos\obj\Debug\Proyecto.Datos.csproj.CoreCompileInputs.cache
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Datos\obj\Debug\Proyecto.B335D156.Up2Date
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Datos\obj\Debug\Proyecto.Datos.dll
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Datos\obj\Debug\Proyecto.Datos.pdb

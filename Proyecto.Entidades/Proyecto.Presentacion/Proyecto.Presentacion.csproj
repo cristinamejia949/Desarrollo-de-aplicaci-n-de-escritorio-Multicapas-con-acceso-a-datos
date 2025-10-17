@@ -46,6 +46,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FrmListaProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListaProductos.Designer.cs">
+      <DependentUpon>FrmListaProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmClientes.Designer.cs">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListaClientes.Designer.cs">
+      <DependentUpon>FrmListaClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProductos.Designer.cs">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmSeguridad.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,11 +96,23 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmClientes.resx">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListaClientes.resx">
+      <DependentUpon>FrmListaClientes.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmListaEmpleados.resx">
       <DependentUpon>FrmListaEmpleados.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmListaProductos.resx">
+      <DependentUpon>FrmListaProductos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmLogin.resx">
       <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProductos.resx">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -1,0 +1,2 @@
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Negocio\obj\Debug\Proyecto.Negocio.csproj.AssemblyReference.cache
+C:\Users\CRISTINA MEJIA\Documents\Semestre 4\Herramientas de Programación lll\PRACTICA_AEAE 4_Cristina_Mejia\Proyecto.Entidades\Proyecto.Negocio\obj\Debug\Proyecto.Negocio.csproj.CoreCompileInputs.cache
